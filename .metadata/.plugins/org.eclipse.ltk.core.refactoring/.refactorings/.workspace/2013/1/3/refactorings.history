@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;unifyingExcecution/IEEEtran.cls&apos;" deleteContents="false" description="Delete resource &apos;unifyingExcecution/IEEEtran.cls&apos;" element1="/unifyingExcecution/IEEEtran.cls" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1358093232846"/>&#x0A;<refactoring comment="Delete 3 resources" deleteContents="false" description="Delete 3 resources" element1="/unifyingExcecution/img/cognitive_model.jpg" element2="/unifyingExcecution/img/decision_tree.png" element3="/unifyingExcecution/img/source_filename.lisp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1358612936152"/>
+</session>

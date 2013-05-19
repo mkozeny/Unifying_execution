@@ -1,0 +1,258 @@
+!SESSION 2012-10-27 13:12:07.988 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.equinox.registry 2 0 2012-10-27 13:12:11.842
+!MESSAGE The extensions and extension-points from the bundle "gov.sandia.jess" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-10-27 13:12:29.983
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-10-28 15:13:56.148 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-10-28 15:14:07.276
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-10-29 08:46:10.040 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-10-29 08:46:18.826
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-11-02 17:16:28.390 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-11-02 17:16:38.017
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-11-03 16:34:03.333 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-11-03 16:34:16.207
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-11-04 11:15:58.706 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-11-04 11:16:09.514
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-11-04 12:48:35.155 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-11-04 12:48:44.043
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-11-04 20:56:53.685 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-11-04 20:57:05.251
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-11-05 18:10:46.152 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-11-05 18:10:58.608
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-11-10 15:36:34.011 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-11-10 15:36:47.648
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-11-11 11:44:15.579 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-11-11 11:44:27.035
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-11-17 21:46:28.164 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-11-17 21:46:42.483
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2012-11-19 06:32:57.108 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2012-11-19 06:33:06.016
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2013-01-13 10:53:56.881 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.equinox.registry 2 0 2013-01-13 10:54:07.186
+!MESSAGE The extensions and extension-points from the bundle "gov.sandia.jess" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-01-13 10:54:32.799
+!MESSAGE No search provider was registed. Tasks search is not available.
+
+!ENTRY org.eclipse.ui 4 4 2013-01-13 16:54:56.815
+!MESSAGE Referenced part does not exist yet: org.eclipse.jdt.ui.PackageExplorer.
+
+!ENTRY net.sourceforge.texlipse 4 4 2013-01-13 17:06:57.202
+!MESSAGE Error while parsing the LaTeX output. Please consult the console output
+!SESSION 2013-01-13 18:40:32.482 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-01-13 18:41:17.535
+!MESSAGE No search provider was registed. Tasks search is not available.
+
+!ENTRY net.sourceforge.texlipse 4 4 2013-01-13 19:04:32.409
+!MESSAGE Error while parsing the LaTeX output. Please consult the console output
+!SESSION 2013-01-13 19:48:15.247 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-01-13 19:48:26.747
+!MESSAGE No search provider was registed. Tasks search is not available.
+
+!ENTRY net.sourceforge.texlipse 4 4 2013-01-13 19:56:23.473
+!MESSAGE Error while parsing the LaTeX output. Please consult the console output
+
+!ENTRY net.sourceforge.texlipse 4 4 2013-01-13 19:56:46.786
+!MESSAGE Error while parsing the LaTeX output. Please consult the console output
+
+!ENTRY net.sourceforge.texlipse 4 4 2013-01-13 19:57:01.653
+!MESSAGE Error while parsing the LaTeX output. Please consult the console output
+
+!ENTRY net.sourceforge.texlipse 4 4 2013-01-13 19:57:08.557
+!MESSAGE Error while parsing the LaTeX output. Please consult the console output
+!SESSION 2013-01-19 14:30:08.779 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86 -data /home/kozenym/Desktop/Jess/workspace
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-01-19 14:30:11.944
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2013-01-19 16:06:58.385 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2013-01-19 16:07:06.937
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-01-19 16:07:13.626
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2013-01-20 10:35:14.267 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-01-20 10:35:31.611
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2013-01-21 10:21:48.080 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-01-21 10:21:57.895
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2013-01-23 19:00:43.948 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-01-23 19:00:55.724
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2013-02-03 09:43:35.291 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.equinox.registry 2 0 2013-02-03 09:43:42.502
+!MESSAGE The extensions and extension-points from the bundle "gov.sandia.jess" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-02-03 09:43:50.197
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2013-02-04 19:49:05.842 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-02-04 19:49:17.254
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2013-05-19 10:39:50.132 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-05-19 10:40:01.421
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2013-05-19 11:44:52.363 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2013-05-19 11:44:56.614
+!MESSAGE No search provider was registed. Tasks search is not available.

@@ -1,0 +1,13 @@
+#TeXlipse project settings
+#Sun Jan 13 16:54:50 CET 2013
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=unifying_execution.tex
+outputFile=unifying_execution.pdf
+langSpell=en
+markDer=true
+srcDir=
